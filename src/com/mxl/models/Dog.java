@@ -13,7 +13,7 @@ public class Dog implements Being {
 	
 	public void hobby() {
 		// TODO Auto-generated method stub
-		System.out.println(msg+"¹·°®¿Ð¹ÇÍ·");
+
 
 	}
 
