@@ -15,7 +15,7 @@ public class Cat implements Being {
 	public void hobby() {
 		// TODO Auto-generated method stub
 		System.out.println(msg+"√®∞Æ≥‘”„");
-		int b = 0;
+		int b = 1;
 	}
 
 }
